@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://www.orekiyuta.cn/Elib/</loc>
+    <lastmod>2018-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.orekiyuta.cn/Elib/tags/fedora/</loc>
+    <lastmod>2011-10-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.orekiyuta.cn/Elib/tags/hugo/</loc>
+    <lastmod>2018-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.orekiyuta.cn/Elib/post/</loc>
+    <lastmod>2018-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.orekiyuta.cn/Elib/tags/snap/</loc>
+    <lastmod>2011-10-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.orekiyuta.cn/Elib/tags/</loc>
+    <lastmod>2018-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.orekiyuta.cn/Elib/tags/ubuntu/</loc>
+    <lastmod>2011-10-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.orekiyuta.cn/Elib/2018/use-snap-to-install-the-hugo-edge-version-on-fedora-and-ubuntu/</loc>
+    <lastmod>2011-10-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.orekiyuta.cn/Elib/tags/awk/</loc>
+    <lastmod>2018-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.orekiyuta.cn/Elib/tags/command-line/</loc>
+    <lastmod>2018-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.orekiyuta.cn/Elib/2018/script-to-add-a-page-level-variable-to-content-front-matter-in-hugo/</loc>
+    <lastmod>2018-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.orekiyuta.cn/Elib/2014/creating-a-new-theme/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.orekiyuta.cn/Elib/tags/theme/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.orekiyuta.cn/Elib/2014/goisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.orekiyuta.cn/Elib/tags/fun/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.orekiyuta.cn/Elib/2014/hugoisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.orekiyuta.cn/Elib/tags/git/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.orekiyuta.cn/Elib/tags/go/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.orekiyuta.cn/Elib/tags/templates/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.orekiyuta.cn/Elib/tags/jekyll/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.orekiyuta.cn/Elib/2014/migrate-from-jekyll/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.orekiyuta.cn/Elib/tags/migration/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+</urlset>
