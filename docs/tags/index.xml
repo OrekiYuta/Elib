@@ -2,129 +2,129 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on </title>
-    <link>http://www.orekiyuta.cn/Elib/tags/</link>
+    <link>http://elib.orekiyuta.cn/tags/</link>
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 26 Oct 2018 12:59:51 -0500</lastBuildDate>
     
-	<atom:link href="http://www.orekiyuta.cn/Elib/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://elib.orekiyuta.cn/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>fedora</title>
-      <link>http://www.orekiyuta.cn/Elib/tags/fedora/</link>
+      <link>http://elib.orekiyuta.cn/tags/fedora/</link>
       <pubDate>Fri, 26 Oct 2018 12:59:51 -0500</pubDate>
       
-      <guid>http://www.orekiyuta.cn/Elib/tags/fedora/</guid>
+      <guid>http://elib.orekiyuta.cn/tags/fedora/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>http://www.orekiyuta.cn/Elib/tags/hugo/</link>
+      <link>http://elib.orekiyuta.cn/tags/hugo/</link>
       <pubDate>Fri, 26 Oct 2018 12:59:51 -0500</pubDate>
       
-      <guid>http://www.orekiyuta.cn/Elib/tags/hugo/</guid>
+      <guid>http://elib.orekiyuta.cn/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>snap</title>
-      <link>http://www.orekiyuta.cn/Elib/tags/snap/</link>
+      <link>http://elib.orekiyuta.cn/tags/snap/</link>
       <pubDate>Fri, 26 Oct 2018 12:59:51 -0500</pubDate>
       
-      <guid>http://www.orekiyuta.cn/Elib/tags/snap/</guid>
+      <guid>http://elib.orekiyuta.cn/tags/snap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ubuntu</title>
-      <link>http://www.orekiyuta.cn/Elib/tags/ubuntu/</link>
+      <link>http://elib.orekiyuta.cn/tags/ubuntu/</link>
       <pubDate>Fri, 26 Oct 2018 12:59:51 -0500</pubDate>
       
-      <guid>http://www.orekiyuta.cn/Elib/tags/ubuntu/</guid>
+      <guid>http://elib.orekiyuta.cn/tags/ubuntu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>awk</title>
-      <link>http://www.orekiyuta.cn/Elib/tags/awk/</link>
+      <link>http://elib.orekiyuta.cn/tags/awk/</link>
       <pubDate>Wed, 10 Oct 2018 12:43:20 -0500</pubDate>
       
-      <guid>http://www.orekiyuta.cn/Elib/tags/awk/</guid>
+      <guid>http://elib.orekiyuta.cn/tags/awk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>command-line</title>
-      <link>http://www.orekiyuta.cn/Elib/tags/command-line/</link>
+      <link>http://elib.orekiyuta.cn/tags/command-line/</link>
       <pubDate>Wed, 10 Oct 2018 12:43:20 -0500</pubDate>
       
-      <guid>http://www.orekiyuta.cn/Elib/tags/command-line/</guid>
+      <guid>http://elib.orekiyuta.cn/tags/command-line/</guid>
       <description></description>
     </item>
     
     <item>
       <title>theme</title>
-      <link>http://www.orekiyuta.cn/Elib/tags/theme/</link>
+      <link>http://elib.orekiyuta.cn/tags/theme/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://www.orekiyuta.cn/Elib/tags/theme/</guid>
+      <guid>http://elib.orekiyuta.cn/tags/theme/</guid>
       <description></description>
     </item>
     
     <item>
       <title>fun</title>
-      <link>http://www.orekiyuta.cn/Elib/tags/fun/</link>
+      <link>http://elib.orekiyuta.cn/tags/fun/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://www.orekiyuta.cn/Elib/tags/fun/</guid>
+      <guid>http://elib.orekiyuta.cn/tags/fun/</guid>
       <description></description>
     </item>
     
     <item>
       <title>git</title>
-      <link>http://www.orekiyuta.cn/Elib/tags/git/</link>
+      <link>http://elib.orekiyuta.cn/tags/git/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://www.orekiyuta.cn/Elib/tags/git/</guid>
+      <guid>http://elib.orekiyuta.cn/tags/git/</guid>
       <description></description>
     </item>
     
     <item>
       <title>go</title>
-      <link>http://www.orekiyuta.cn/Elib/tags/go/</link>
+      <link>http://elib.orekiyuta.cn/tags/go/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://www.orekiyuta.cn/Elib/tags/go/</guid>
+      <guid>http://elib.orekiyuta.cn/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>templates</title>
-      <link>http://www.orekiyuta.cn/Elib/tags/templates/</link>
+      <link>http://elib.orekiyuta.cn/tags/templates/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://www.orekiyuta.cn/Elib/tags/templates/</guid>
+      <guid>http://elib.orekiyuta.cn/tags/templates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>jekyll</title>
-      <link>http://www.orekiyuta.cn/Elib/tags/jekyll/</link>
+      <link>http://elib.orekiyuta.cn/tags/jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://www.orekiyuta.cn/Elib/tags/jekyll/</guid>
+      <guid>http://elib.orekiyuta.cn/tags/jekyll/</guid>
       <description></description>
     </item>
     
     <item>
       <title>migration</title>
-      <link>http://www.orekiyuta.cn/Elib/tags/migration/</link>
+      <link>http://elib.orekiyuta.cn/tags/migration/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://www.orekiyuta.cn/Elib/tags/migration/</guid>
+      <guid>http://elib.orekiyuta.cn/tags/migration/</guid>
       <description></description>
     </item>
     

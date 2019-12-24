@@ -3,112 +3,112 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.orekiyuta.cn/Elib/</loc>
+    <loc>http://elib.orekiyuta.cn/</loc>
     <lastmod>2018-10-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.orekiyuta.cn/Elib/tags/fedora/</loc>
+    <loc>http://elib.orekiyuta.cn/tags/fedora/</loc>
     <lastmod>2011-10-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.orekiyuta.cn/Elib/tags/hugo/</loc>
+    <loc>http://elib.orekiyuta.cn/tags/hugo/</loc>
     <lastmod>2018-10-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.orekiyuta.cn/Elib/post/</loc>
+    <loc>http://elib.orekiyuta.cn/post/</loc>
     <lastmod>2018-10-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.orekiyuta.cn/Elib/tags/snap/</loc>
+    <loc>http://elib.orekiyuta.cn/tags/snap/</loc>
     <lastmod>2011-10-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.orekiyuta.cn/Elib/tags/</loc>
+    <loc>http://elib.orekiyuta.cn/tags/</loc>
     <lastmod>2018-10-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.orekiyuta.cn/Elib/tags/ubuntu/</loc>
+    <loc>http://elib.orekiyuta.cn/tags/ubuntu/</loc>
     <lastmod>2011-10-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.orekiyuta.cn/Elib/2018/use-snap-to-install-the-hugo-edge-version-on-fedora-and-ubuntu/</loc>
+    <loc>http://elib.orekiyuta.cn/2018/use-snap-to-install-the-hugo-edge-version-on-fedora-and-ubuntu/</loc>
     <lastmod>2011-10-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.orekiyuta.cn/Elib/tags/awk/</loc>
+    <loc>http://elib.orekiyuta.cn/tags/awk/</loc>
     <lastmod>2018-10-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.orekiyuta.cn/Elib/tags/command-line/</loc>
+    <loc>http://elib.orekiyuta.cn/tags/command-line/</loc>
     <lastmod>2018-10-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.orekiyuta.cn/Elib/2018/script-to-add-a-page-level-variable-to-content-front-matter-in-hugo/</loc>
+    <loc>http://elib.orekiyuta.cn/2018/script-to-add-a-page-level-variable-to-content-front-matter-in-hugo/</loc>
     <lastmod>2018-10-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.orekiyuta.cn/Elib/2014/creating-a-new-theme/</loc>
+    <loc>http://elib.orekiyuta.cn/2014/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.orekiyuta.cn/Elib/tags/theme/</loc>
+    <loc>http://elib.orekiyuta.cn/tags/theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.orekiyuta.cn/Elib/2014/goisforlovers/</loc>
+    <loc>http://elib.orekiyuta.cn/2014/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.orekiyuta.cn/Elib/tags/fun/</loc>
+    <loc>http://elib.orekiyuta.cn/tags/fun/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.orekiyuta.cn/Elib/2014/hugoisforlovers/</loc>
+    <loc>http://elib.orekiyuta.cn/2014/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.orekiyuta.cn/Elib/tags/git/</loc>
+    <loc>http://elib.orekiyuta.cn/tags/git/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.orekiyuta.cn/Elib/tags/go/</loc>
+    <loc>http://elib.orekiyuta.cn/tags/go/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.orekiyuta.cn/Elib/tags/templates/</loc>
+    <loc>http://elib.orekiyuta.cn/tags/templates/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.orekiyuta.cn/Elib/tags/jekyll/</loc>
+    <loc>http://elib.orekiyuta.cn/tags/jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.orekiyuta.cn/Elib/2014/migrate-from-jekyll/</loc>
+    <loc>http://elib.orekiyuta.cn/2014/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.orekiyuta.cn/Elib/tags/migration/</loc>
+    <loc>http://elib.orekiyuta.cn/tags/migration/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
