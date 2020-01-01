@@ -1,4 +1,4 @@
-baseURL = "http://elib.orekiyuta.cn"
+baseURL = "https://elib.orekiyuta.cn"
 languageCode = "en-us"
 publishDir = "docs"
 theme     = "bootie-docs"
@@ -9,7 +9,7 @@ title     = "Elib"
   description= "Elib is a Little Collection Library"
   searchDomain = "elib.orekiyuta.cn"
   withSitePosts  = true
-  repositoryUrl  = "http://elib.orekiyuta.cn"
+  repositoryUrl  = "https://elib.orekiyuta.cn"
 
 
 
