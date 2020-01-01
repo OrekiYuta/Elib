@@ -7,13 +7,16 @@ title     = "Elib"
 [params]
   highlightStyle = "github"
   description= "Elib is a Little Collection Library"
-  searchDomain = "elib.orekiyuta.cn"
+  searchDomain = "https://elib.orekiyuta.cn"
   withSitePosts  = true
-  repositoryUrl  = "https://elib.orekiyuta.cn"
-
+ 
 
 
 [[menu.main]]
+  name   = "Posts"
+  url    = "/post/"
+  weight = 10
+[[menu.main]]
   name   = "Tags"
   url    = "/Tags/"
-  weight = 10
+  weight = 20
