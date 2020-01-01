@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://elib.orekiyuta.cn/2018/use-snap-to-install-the-hugo-edge-version-on-fedora-and-ubuntu/</loc>
+    <loc>http://elib.orekiyuta.cn/post/use-snap-to-install-the-hugo-edge-version-on-fedora-and-ubuntu/</loc>
     <lastmod>2011-10-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -53,12 +53,12 @@
   </url>
   
   <url>
-    <loc>http://elib.orekiyuta.cn/2018/script-to-add-a-page-level-variable-to-content-front-matter-in-hugo/</loc>
+    <loc>http://elib.orekiyuta.cn/post/script-to-add-a-page-level-variable-to-content-front-matter-in-hugo/</loc>
     <lastmod>2018-10-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://elib.orekiyuta.cn/2014/creating-a-new-theme/</loc>
+    <loc>http://elib.orekiyuta.cn/post/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
@@ -68,7 +68,7 @@
   </url>
   
   <url>
-    <loc>http://elib.orekiyuta.cn/2014/goisforlovers/</loc>
+    <loc>http://elib.orekiyuta.cn/post/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -78,7 +78,7 @@
   </url>
   
   <url>
-    <loc>http://elib.orekiyuta.cn/2014/hugoisforlovers/</loc>
+    <loc>http://elib.orekiyuta.cn/post/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -103,13 +103,17 @@
   </url>
   
   <url>
-    <loc>http://elib.orekiyuta.cn/2014/migrate-from-jekyll/</loc>
+    <loc>http://elib.orekiyuta.cn/post/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://elib.orekiyuta.cn/tags/migration/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://elib.orekiyuta.cn/categories/</loc>
   </url>
   
 </urlset>
