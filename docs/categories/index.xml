@@ -6,28 +6,9 @@
     <description>Recent content in Categories on Elib</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://elib.orekiyuta.cn/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Snap</title>
-      <link>https://elib.orekiyuta.cn/categories/snap/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://elib.orekiyuta.cn/categories/snap/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ubantu</title>
-      <link>https://elib.orekiyuta.cn/categories/ubantu/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://elib.orekiyuta.cn/categories/ubantu/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

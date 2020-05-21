@@ -1,22 +1,5 @@
 baseURL = "https://elib.orekiyuta.cn"
 languageCode = "en-us"
-publishDir = "docs"
-theme     = "bootie-docs"
+theme     = "hugonews"
 title     = "Elib"
-
-[params]
-  highlightStyle = "github"
-  description= "Elib is a Little Collection Library"
-  searchDomain = "https://elib.orekiyuta.cn"
-  withSitePosts  = true
- 
-
-
-[[menu.main]]
-  name   = "Posts"
-  url    = "/post/"
-  weight = 10
-[[menu.main]]
-  name   = "Tags"
-  url    = "/Tags/"
-  weight = 20
+publishDir = "docs"
