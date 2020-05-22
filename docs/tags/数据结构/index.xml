@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>数据结构 on Elib</title>
+    <link>https://elib.orekiyuta.cn/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</link>
+    <description>Recent content in 数据结构 on Elib</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 May 2020 20:55:19 +0800</lastBuildDate>
+    
+	<atom:link href="https://elib.orekiyuta.cn/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>数据结构里各种难啃的“树”，一文搞懂它</title>
+      <link>https://elib.orekiyuta.cn/items/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E9%87%8C%E5%90%84%E7%A7%8D%E9%9A%BE%E5%95%83%E7%9A%84%E6%A0%91%E4%B8%80%E6%96%87%E6%90%9E%E6%87%82%E5%AE%83/</link>
+      <pubDate>Fri, 22 May 2020 20:55:19 +0800</pubDate>
+      
+      <guid>https://elib.orekiyuta.cn/items/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E9%87%8C%E5%90%84%E7%A7%8D%E9%9A%BE%E5%95%83%E7%9A%84%E6%A0%91%E4%B8%80%E6%96%87%E6%90%9E%E6%87%82%E5%AE%83/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

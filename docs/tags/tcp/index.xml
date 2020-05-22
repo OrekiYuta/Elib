@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TCP on Elib</title>
+    <link>https://elib.orekiyuta.cn/tags/tcp/</link>
+    <description>Recent content in TCP on Elib</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 May 2020 21:15:47 +0800</lastBuildDate>
+    
+	<atom:link href="https://elib.orekiyuta.cn/tags/tcp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>全图解被问千百遍的TCP三次握手和四次挥手面试题</title>
+      <link>https://elib.orekiyuta.cn/items/%E5%85%A8%E5%9B%BE%E8%A7%A3%E8%A2%AB%E9%97%AE%E5%8D%83%E7%99%BE%E9%81%8D%E7%9A%84tcp%E4%B8%89%E6%AC%A1%E6%8F%A1%E6%89%8B%E5%92%8C%E5%9B%9B%E6%AC%A1%E6%8C%A5%E6%89%8B%E9%9D%A2%E8%AF%95%E9%A2%98/</link>
+      <pubDate>Fri, 22 May 2020 21:15:47 +0800</pubDate>
+      
+      <guid>https://elib.orekiyuta.cn/items/%E5%85%A8%E5%9B%BE%E8%A7%A3%E8%A2%AB%E9%97%AE%E5%8D%83%E7%99%BE%E9%81%8D%E7%9A%84tcp%E4%B8%89%E6%AC%A1%E6%8F%A1%E6%89%8B%E5%92%8C%E5%9B%9B%E6%AC%A1%E6%8C%A5%E6%89%8B%E9%9D%A2%E8%AF%95%E9%A2%98/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>一文搞定UDP和TCP高频面试题！</title>
+      <link>https://elib.orekiyuta.cn/items/%E4%B8%80%E6%96%87%E6%90%9E%E5%AE%9Audp%E5%92%8Ctcp%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98/</link>
+      <pubDate>Fri, 22 May 2020 17:02:51 +0800</pubDate>
+      
+      <guid>https://elib.orekiyuta.cn/items/%E4%B8%80%E6%96%87%E6%90%9E%E5%AE%9Audp%E5%92%8Ctcp%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
