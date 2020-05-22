@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>session on Elib</title>
+    <link>https://elib.orekiyuta.cn/tags/session/</link>
+    <description>Recent content in session on Elib</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 May 2020 01:27:28 +0800</lastBuildDate>
+    
+	<atom:link href="https://elib.orekiyuta.cn/tags/session/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>一文彻底搞懂cookie和session</title>
+      <link>https://elib.orekiyuta.cn/items/%E4%B8%80%E6%96%87%E5%BD%BB%E5%BA%95%E6%90%9E%E6%87%82cookie%E5%92%8Csession/</link>
+      <pubDate>Sat, 23 May 2020 01:27:28 +0800</pubDate>
+      
+      <guid>https://elib.orekiyuta.cn/items/%E4%B8%80%E6%96%87%E5%BD%BB%E5%BA%95%E6%90%9E%E6%87%82cookie%E5%92%8Csession/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ioc on Elib</title>
+    <link>https://elib.orekiyuta.cn/tags/ioc/</link>
+    <description>Recent content in ioc on Elib</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 May 2020 01:48:28 +0800</lastBuildDate>
+    
+	<atom:link href="https://elib.orekiyuta.cn/tags/ioc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>工厂模式讲解,引入SpringIOC</title>
+      <link>https://elib.orekiyuta.cn/items/%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F%E8%AE%B2%E8%A7%A3%E5%BC%95%E5%85%A5springioc/</link>
+      <pubDate>Sat, 23 May 2020 01:48:28 +0800</pubDate>
+      
+      <guid>https://elib.orekiyuta.cn/items/%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F%E8%AE%B2%E8%A7%A3%E5%BC%95%E5%85%A5springioc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>面试被问烂了的SpringIoC</title>
+      <link>https://elib.orekiyuta.cn/items/%E9%9D%A2%E8%AF%95%E8%A2%AB%E9%97%AE%E7%83%82%E4%BA%86%E7%9A%84springioc/</link>
+      <pubDate>Sat, 23 May 2020 01:42:57 +0800</pubDate>
+      
+      <guid>https://elib.orekiyuta.cn/items/%E9%9D%A2%E8%AF%95%E8%A2%AB%E9%97%AE%E7%83%82%E4%BA%86%E7%9A%84springioc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bean on Elib</title>
+    <link>https://elib.orekiyuta.cn/tags/bean/</link>
+    <description>Recent content in bean on Elib</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 May 2020 01:11:42 +0800</lastBuildDate>
+    
+	<atom:link href="https://elib.orekiyuta.cn/tags/bean/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>想过没：为啥Spring的Bean默认是单例的？</title>
+      <link>https://elib.orekiyuta.cn/items/%E6%83%B3%E8%BF%87%E6%B2%A1%E4%B8%BA%E5%95%A5spring%E7%9A%84bean%E9%BB%98%E8%AE%A4%E6%98%AF%E5%8D%95%E4%BE%8B%E7%9A%84/</link>
+      <pubDate>Sat, 23 May 2020 01:11:42 +0800</pubDate>
+      
+      <guid>https://elib.orekiyuta.cn/items/%E6%83%B3%E8%BF%87%E6%B2%A1%E4%B8%BA%E5%95%A5spring%E7%9A%84bean%E9%BB%98%E8%AE%A4%E6%98%AF%E5%8D%95%E4%BE%8B%E7%9A%84/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>software on Elib</title>
+    <link>https://elib.orekiyuta.cn/tags/software/</link>
+    <description>Recent content in software on Elib</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 May 2020 01:49:41 +0800</lastBuildDate>
+    
+	<atom:link href="https://elib.orekiyuta.cn/tags/software/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>使用Zeal打造属于自己的专属文档</title>
+      <link>https://elib.orekiyuta.cn/items/%E4%BD%BF%E7%94%A8zeal%E6%89%93%E9%80%A0%E5%B1%9E%E4%BA%8E%E8%87%AA%E5%B7%B1%E7%9A%84%E4%B8%93%E5%B1%9E%E6%96%87%E6%A1%A3/</link>
+      <pubDate>Sat, 23 May 2020 01:49:41 +0800</pubDate>
+      
+      <guid>https://elib.orekiyuta.cn/items/%E4%BD%BF%E7%94%A8zeal%E6%89%93%E9%80%A0%E5%B1%9E%E4%BA%8E%E8%87%AA%E5%B7%B1%E7%9A%84%E4%B8%93%E5%B1%9E%E6%96%87%E6%A1%A3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>如何让自己少写点bug？</title>
+      <link>https://elib.orekiyuta.cn/items/%E5%A6%82%E4%BD%95%E8%AE%A9%E8%87%AA%E5%B7%B1%E5%B0%91%E5%86%99%E7%82%B9bug/</link>
+      <pubDate>Sat, 23 May 2020 00:49:48 +0800</pubDate>
+      
+      <guid>https://elib.orekiyuta.cn/items/%E5%A6%82%E4%BD%95%E8%AE%A9%E8%87%AA%E5%B7%B1%E5%B0%91%E5%86%99%E7%82%B9bug/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>我的常用软件大公开！</title>
+      <link>https://elib.orekiyuta.cn/items/%E6%88%91%E7%9A%84%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6%E5%A4%A7%E5%85%AC%E5%BC%80/</link>
+      <pubDate>Sat, 23 May 2020 00:16:16 +0800</pubDate>
+      
+      <guid>https://elib.orekiyuta.cn/items/%E6%88%91%E7%9A%84%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6%E5%A4%A7%E5%85%AC%E5%BC%80/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>服务器软件大盘点！</title>
+      <link>https://elib.orekiyuta.cn/items/%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BD%AF%E4%BB%B6%E5%A4%A7%E7%9B%98%E7%82%B9/</link>
+      <pubDate>Sat, 23 May 2020 00:12:57 +0800</pubDate>
+      
+      <guid>https://elib.orekiyuta.cn/items/%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BD%AF%E4%BB%B6%E5%A4%A7%E7%9B%98%E7%82%B9/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

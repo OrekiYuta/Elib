@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>enum on Elib</title>
+    <link>https://elib.orekiyuta.cn/tags/enum/</link>
+    <description>Recent content in enum on Elib</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 May 2020 00:29:40 +0800</lastBuildDate>
+    
+	<atom:link href="https://elib.orekiyuta.cn/tags/enum/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>恕我直言，我怀疑你没怎么用过枚举</title>
+      <link>https://elib.orekiyuta.cn/items/%E6%81%95%E6%88%91%E7%9B%B4%E8%A8%80%E6%88%91%E6%80%80%E7%96%91%E4%BD%A0%E6%B2%A1%E6%80%8E%E4%B9%88%E7%94%A8%E8%BF%87%E6%9E%9A%E4%B8%BE/</link>
+      <pubDate>Sat, 23 May 2020 00:29:40 +0800</pubDate>
+      
+      <guid>https://elib.orekiyuta.cn/items/%E6%81%95%E6%88%91%E7%9B%B4%E8%A8%80%E6%88%91%E6%80%80%E7%96%91%E4%BD%A0%E6%B2%A1%E6%80%8E%E4%B9%88%E7%94%A8%E8%BF%87%E6%9E%9A%E4%B8%BE/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

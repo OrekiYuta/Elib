@@ -6,10 +6,46 @@
     <description>Recent content in java on Elib</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 May 2020 17:13:14 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2020 01:50:45 +0800</lastBuildDate>
     
 	<atom:link href="https://elib.orekiyuta.cn/tags/java/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>关于Java多线程及线程池的使用看这篇就够了</title>
+      <link>https://elib.orekiyuta.cn/items/%E5%85%B3%E4%BA%8Ejava%E5%A4%9A%E7%BA%BF%E7%A8%8B%E5%8F%8A%E7%BA%BF%E7%A8%8B%E6%B1%A0%E7%9A%84%E4%BD%BF%E7%94%A8%E7%9C%8B%E8%BF%99%E7%AF%87%E5%B0%B1%E5%A4%9F%E4%BA%86/</link>
+      <pubDate>Sat, 23 May 2020 01:50:45 +0800</pubDate>
+      
+      <guid>https://elib.orekiyuta.cn/items/%E5%85%B3%E4%BA%8Ejava%E5%A4%9A%E7%BA%BF%E7%A8%8B%E5%8F%8A%E7%BA%BF%E7%A8%8B%E6%B1%A0%E7%9A%84%E4%BD%BF%E7%94%A8%E7%9C%8B%E8%BF%99%E7%AF%87%E5%B0%B1%E5%A4%9F%E4%BA%86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>上次谁说要Java开源项目来着？来！</title>
+      <link>https://elib.orekiyuta.cn/items/%E4%B8%8A%E6%AC%A1%E8%B0%81%E8%AF%B4%E8%A6%81java%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E6%9D%A5%E7%9D%80%E6%9D%A5/</link>
+      <pubDate>Sat, 23 May 2020 00:10:16 +0800</pubDate>
+      
+      <guid>https://elib.orekiyuta.cn/items/%E4%B8%8A%E6%AC%A1%E8%B0%81%E8%AF%B4%E8%A6%81java%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E6%9D%A5%E7%9D%80%E6%9D%A5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>不就看一下Java后端开发书架吗？这有啥不行</title>
+      <link>https://elib.orekiyuta.cn/items/%E4%B8%8D%E5%B0%B1%E7%9C%8B%E4%B8%80%E4%B8%8Bjava%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%E4%B9%A6%E6%9E%B6%E5%90%97%E8%BF%99%E6%9C%89%E5%95%A5%E4%B8%8D%E8%A1%8C/</link>
+      <pubDate>Sat, 23 May 2020 00:07:19 +0800</pubDate>
+      
+      <guid>https://elib.orekiyuta.cn/items/%E4%B8%8D%E5%B0%B1%E7%9C%8B%E4%B8%80%E4%B8%8Bjava%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%E4%B9%A6%E6%9E%B6%E5%90%97%E8%BF%99%E6%9C%89%E5%95%A5%E4%B8%8D%E8%A1%8C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>看完这篇，别人的开源项目结构应该能看懂了</title>
+      <link>https://elib.orekiyuta.cn/items/%E7%9C%8B%E5%AE%8C%E8%BF%99%E7%AF%87%E5%88%AB%E4%BA%BA%E7%9A%84%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E7%BB%93%E6%9E%84%E5%BA%94%E8%AF%A5%E8%83%BD%E7%9C%8B%E6%87%82%E4%BA%86/</link>
+      <pubDate>Fri, 22 May 2020 23:06:22 +0800</pubDate>
+      
+      <guid>https://elib.orekiyuta.cn/items/%E7%9C%8B%E5%AE%8C%E8%BF%99%E7%AF%87%E5%88%AB%E4%BA%BA%E7%9A%84%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E7%BB%93%E6%9E%84%E5%BA%94%E8%AF%A5%E8%83%BD%E7%9C%8B%E6%87%82%E4%BA%86/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Java基础知识面试题大集合</title>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ping on Elib</title>
+    <link>https://elib.orekiyuta.cn/tags/ping/</link>
+    <description>Recent content in ping on Elib</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 May 2020 01:54:48 +0800</lastBuildDate>
+    
+	<atom:link href="https://elib.orekiyuta.cn/tags/ping/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>对于Ping的过程，你真的了解吗？</title>
+      <link>https://elib.orekiyuta.cn/items/%E5%AF%B9%E4%BA%8Eping%E7%9A%84%E8%BF%87%E7%A8%8B%E4%BD%A0%E7%9C%9F%E7%9A%84%E4%BA%86%E8%A7%A3%E5%90%97/</link>
+      <pubDate>Sat, 23 May 2020 01:54:48 +0800</pubDate>
+      
+      <guid>https://elib.orekiyuta.cn/items/%E5%AF%B9%E4%BA%8Eping%E7%9A%84%E8%BF%87%E7%A8%8B%E4%BD%A0%E7%9C%9F%E7%9A%84%E4%BA%86%E8%A7%A3%E5%90%97/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ping命令用得这么6，原理知道不？图解一波！</title>
+      <link>https://elib.orekiyuta.cn/items/ping%E5%91%BD%E4%BB%A4%E7%94%A8%E5%BE%97%E8%BF%99%E4%B9%886%E5%8E%9F%E7%90%86%E7%9F%A5%E9%81%93%E4%B8%8D%E5%9B%BE%E8%A7%A3%E4%B8%80%E6%B3%A2/</link>
+      <pubDate>Fri, 22 May 2020 19:52:12 +0800</pubDate>
+      
+      <guid>https://elib.orekiyuta.cn/items/ping%E5%91%BD%E4%BB%A4%E7%94%A8%E5%BE%97%E8%BF%99%E4%B9%886%E5%8E%9F%E7%90%86%E7%9F%A5%E9%81%93%E4%B8%8D%E5%9B%BE%E8%A7%A3%E4%B8%80%E6%B3%A2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
