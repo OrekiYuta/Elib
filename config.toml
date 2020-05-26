@@ -3,6 +3,7 @@ languageCode = "en-us"
 theme     = "hugonews"
 title     = "Elib"
 publishDir = "docs"
+paginate = "20"
 
 [params]
 favicon = "/favicon.ico"
