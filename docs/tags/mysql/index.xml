@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mysql on Elib</title>
+    <link>https://elib.orekiyuta.cn/tags/mysql/</link>
+    <description>Recent content in mysql on Elib</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 May 2020 19:41:10 +0800</lastBuildDate>
+    
+	<atom:link href="https://elib.orekiyuta.cn/tags/mysql/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>值得收藏：一份非常完整的MySQL规范</title>
+      <link>https://elib.orekiyuta.cn/items/%E5%80%BC%E5%BE%97%E6%94%B6%E8%97%8F%E4%B8%80%E4%BB%BD%E9%9D%9E%E5%B8%B8%E5%AE%8C%E6%95%B4%E7%9A%84mysql%E8%A7%84%E8%8C%83/</link>
+      <pubDate>Fri, 29 May 2020 19:41:10 +0800</pubDate>
+      
+      <guid>https://elib.orekiyuta.cn/items/%E5%80%BC%E5%BE%97%E6%94%B6%E8%97%8F%E4%B8%80%E4%BB%BD%E9%9D%9E%E5%B8%B8%E5%AE%8C%E6%95%B4%E7%9A%84mysql%E8%A7%84%E8%8C%83/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MySQL面试高频一百问（工程师方向）</title>
+      <link>https://elib.orekiyuta.cn/items/mysql%E9%9D%A2%E8%AF%95%E9%AB%98%E9%A2%91%E4%B8%80%E7%99%BE%E9%97%AE%E5%B7%A5%E7%A8%8B%E5%B8%88%E6%96%B9%E5%90%91/</link>
+      <pubDate>Fri, 29 May 2020 19:40:16 +0800</pubDate>
+      
+      <guid>https://elib.orekiyuta.cn/items/mysql%E9%9D%A2%E8%AF%95%E9%AB%98%E9%A2%91%E4%B8%80%E7%99%BE%E9%97%AE%E5%B7%A5%E7%A8%8B%E5%B8%88%E6%96%B9%E5%90%91/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>一次SQL查询优化原理分析（900W&#43;数据，从17s到300ms）</title>
+      <link>https://elib.orekiyuta.cn/items/%E4%B8%80%E6%AC%A1sql%E6%9F%A5%E8%AF%A2%E4%BC%98%E5%8C%96%E5%8E%9F%E7%90%86%E5%88%86%E6%9E%90900w&#43;%E6%95%B0%E6%8D%AE%E4%BB%8E17s%E5%88%B0300ms/</link>
+      <pubDate>Fri, 29 May 2020 16:14:20 +0800</pubDate>
+      
+      <guid>https://elib.orekiyuta.cn/items/%E4%B8%80%E6%AC%A1sql%E6%9F%A5%E8%AF%A2%E4%BC%98%E5%8C%96%E5%8E%9F%E7%90%86%E5%88%86%E6%9E%90900w&#43;%E6%95%B0%E6%8D%AE%E4%BB%8E17s%E5%88%B0300ms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>你还在Select星吗？</title>
+      <link>https://elib.orekiyuta.cn/items/%E4%BD%A0%E8%BF%98%E5%9C%A8select%E6%98%9F%E5%90%97/</link>
+      <pubDate>Fri, 29 May 2020 16:02:10 +0800</pubDate>
+      
+      <guid>https://elib.orekiyuta.cn/items/%E4%BD%A0%E8%BF%98%E5%9C%A8select%E6%98%9F%E5%90%97/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>一本彻底搞懂MySQL索引优化Explain</title>
+      <link>https://elib.orekiyuta.cn/items/%E4%B8%80%E6%9C%AC%E5%BD%BB%E5%BA%95%E6%90%9E%E6%87%82mysql%E7%B4%A2%E5%BC%95%E4%BC%98%E5%8C%96explain/</link>
+      <pubDate>Fri, 29 May 2020 15:31:09 +0800</pubDate>
+      
+      <guid>https://elib.orekiyuta.cn/items/%E4%B8%80%E6%9C%AC%E5%BD%BB%E5%BA%95%E6%90%9E%E6%87%82mysql%E7%B4%A2%E5%BC%95%E4%BC%98%E5%8C%96explain/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

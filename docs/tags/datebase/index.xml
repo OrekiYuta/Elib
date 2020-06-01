@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>datebase on Elib</title>
+    <link>https://elib.orekiyuta.cn/tags/datebase/</link>
+    <description>Recent content in datebase on Elib</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 May 2020 19:41:10 +0800</lastBuildDate>
+    
+	<atom:link href="https://elib.orekiyuta.cn/tags/datebase/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>值得收藏：一份非常完整的MySQL规范</title>
+      <link>https://elib.orekiyuta.cn/items/%E5%80%BC%E5%BE%97%E6%94%B6%E8%97%8F%E4%B8%80%E4%BB%BD%E9%9D%9E%E5%B8%B8%E5%AE%8C%E6%95%B4%E7%9A%84mysql%E8%A7%84%E8%8C%83/</link>
+      <pubDate>Fri, 29 May 2020 19:41:10 +0800</pubDate>
+      
+      <guid>https://elib.orekiyuta.cn/items/%E5%80%BC%E5%BE%97%E6%94%B6%E8%97%8F%E4%B8%80%E4%BB%BD%E9%9D%9E%E5%B8%B8%E5%AE%8C%E6%95%B4%E7%9A%84mysql%E8%A7%84%E8%8C%83/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

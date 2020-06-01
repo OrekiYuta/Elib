@@ -6,10 +6,46 @@
     <description>Recent content in 操作系统 on Elib</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 May 2020 00:19:32 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2020 16:17:42 +0800</lastBuildDate>
     
 	<atom:link href="https://elib.orekiyuta.cn/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>一次相亲经历，我彻底搞懂了什么叫阻塞非阻塞，同步异步</title>
+      <link>https://elib.orekiyuta.cn/items/%E4%B8%80%E6%AC%A1%E7%9B%B8%E4%BA%B2%E7%BB%8F%E5%8E%86%E6%88%91%E5%BD%BB%E5%BA%95%E6%90%9E%E6%87%82%E4%BA%86%E4%BB%80%E4%B9%88%E5%8F%AB%E9%98%BB%E5%A1%9E%E9%9D%9E%E9%98%BB%E5%A1%9E%E5%90%8C%E6%AD%A5%E5%BC%82%E6%AD%A5/</link>
+      <pubDate>Fri, 29 May 2020 16:17:42 +0800</pubDate>
+      
+      <guid>https://elib.orekiyuta.cn/items/%E4%B8%80%E6%AC%A1%E7%9B%B8%E4%BA%B2%E7%BB%8F%E5%8E%86%E6%88%91%E5%BD%BB%E5%BA%95%E6%90%9E%E6%87%82%E4%BA%86%E4%BB%80%E4%B9%88%E5%8F%AB%E9%98%BB%E5%A1%9E%E9%9D%9E%E9%98%BB%E5%A1%9E%E5%90%8C%E6%AD%A5%E5%BC%82%E6%AD%A5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>基础：为什么计算机只认识0和1？</title>
+      <link>https://elib.orekiyuta.cn/items/%E5%9F%BA%E7%A1%80%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8F%AA%E8%AE%A4%E8%AF%860%E5%92%8C1/</link>
+      <pubDate>Fri, 29 May 2020 15:49:30 +0800</pubDate>
+      
+      <guid>https://elib.orekiyuta.cn/items/%E5%9F%BA%E7%A1%80%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8F%AA%E8%AE%A4%E8%AF%860%E5%92%8C1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>一篇文章带你「重新认识」线程上下文切换怎么玩儿</title>
+      <link>https://elib.orekiyuta.cn/items/%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0%E5%B8%A6%E4%BD%A0%E9%87%8D%E6%96%B0%E8%AE%A4%E8%AF%86%E7%BA%BF%E7%A8%8B%E4%B8%8A%E4%B8%8B%E6%96%87%E5%88%87%E6%8D%A2%E6%80%8E%E4%B9%88%E7%8E%A9%E5%84%BF/</link>
+      <pubDate>Fri, 29 May 2020 15:42:30 +0800</pubDate>
+      
+      <guid>https://elib.orekiyuta.cn/items/%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0%E5%B8%A6%E4%BD%A0%E9%87%8D%E6%96%B0%E8%AE%A4%E8%AF%86%E7%BA%BF%E7%A8%8B%E4%B8%8A%E4%B8%8B%E6%96%87%E5%88%87%E6%8D%A2%E6%80%8E%E4%B9%88%E7%8E%A9%E5%84%BF/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>写给大忙人看的进程和线程</title>
+      <link>https://elib.orekiyuta.cn/items/%E5%86%99%E7%BB%99%E5%A4%A7%E5%BF%99%E4%BA%BA%E7%9C%8B%E7%9A%84%E8%BF%9B%E7%A8%8B%E5%92%8C%E7%BA%BF%E7%A8%8B/</link>
+      <pubDate>Fri, 29 May 2020 15:36:27 +0800</pubDate>
+      
+      <guid>https://elib.orekiyuta.cn/items/%E5%86%99%E7%BB%99%E5%A4%A7%E5%BF%99%E4%BA%BA%E7%9C%8B%E7%9A%84%E8%BF%9B%E7%A8%8B%E5%92%8C%E7%BA%BF%E7%A8%8B/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>这才是学编程要懂的基础！</title>
