@@ -6,10 +6,28 @@
     <description>Recent content in http on Elib</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 May 2020 20:06:18 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2020 00:52:32 +0800</lastBuildDate>
     
 	<atom:link href="https://elib.orekiyuta.cn/tags/http/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Http请求中加号被替换为空格？源码背后的秘密</title>
+      <link>https://elib.orekiyuta.cn/items/http%E8%AF%B7%E6%B1%82%E4%B8%AD%E5%8A%A0%E5%8F%B7%E8%A2%AB%E6%9B%BF%E6%8D%A2%E4%B8%BA%E7%A9%BA%E6%A0%BC%E6%BA%90%E7%A0%81%E8%83%8C%E5%90%8E%E7%9A%84%E7%A7%98%E5%AF%86/</link>
+      <pubDate>Thu, 04 Jun 2020 00:52:32 +0800</pubDate>
+      
+      <guid>https://elib.orekiyuta.cn/items/http%E8%AF%B7%E6%B1%82%E4%B8%AD%E5%8A%A0%E5%8F%B7%E8%A2%AB%E6%9B%BF%E6%8D%A2%E4%B8%BA%E7%A9%BA%E6%A0%BC%E6%BA%90%E7%A0%81%E8%83%8C%E5%90%8E%E7%9A%84%E7%A7%98%E5%AF%86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>面试HTTP，99%的面试官都爱问这些问题</title>
+      <link>https://elib.orekiyuta.cn/items/%E9%9D%A2%E8%AF%95http99%E7%9A%84%E9%9D%A2%E8%AF%95%E5%AE%98%E9%83%BD%E7%88%B1%E9%97%AE%E8%BF%99%E4%BA%9B%E9%97%AE%E9%A2%98/</link>
+      <pubDate>Wed, 03 Jun 2020 01:39:13 +0800</pubDate>
+      
+      <guid>https://elib.orekiyuta.cn/items/%E9%9D%A2%E8%AF%95http99%E7%9A%84%E9%9D%A2%E8%AF%95%E5%AE%98%E9%83%BD%E7%88%B1%E9%97%AE%E8%BF%99%E4%BA%9B%E9%97%AE%E9%A2%98/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>JavaEE要懂的小事：一、图解Http协议</title>

@@ -6,10 +6,28 @@
     <description>Recent content in cookie on Elib</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 May 2020 20:07:20 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2020 22:57:39 +0800</lastBuildDate>
     
 	<atom:link href="https://elib.orekiyuta.cn/tags/cookie/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cookie、session和application都是些什么神？</title>
+      <link>https://elib.orekiyuta.cn/items/cookiesession%E5%92%8Capplication%E9%83%BD%E6%98%AF%E4%BA%9B%E4%BB%80%E4%B9%88%E7%A5%9E/</link>
+      <pubDate>Wed, 03 Jun 2020 22:57:39 +0800</pubDate>
+      
+      <guid>https://elib.orekiyuta.cn/items/cookiesession%E5%92%8Capplication%E9%83%BD%E6%98%AF%E4%BA%9B%E4%BB%80%E4%B9%88%E7%A5%9E/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>如果网站的Cookie特别多特别大，会发生什么情况？</title>
+      <link>https://elib.orekiyuta.cn/items/%E5%A6%82%E6%9E%9C%E7%BD%91%E7%AB%99%E7%9A%84cookie%E7%89%B9%E5%88%AB%E5%A4%9A%E7%89%B9%E5%88%AB%E5%A4%A7%E4%BC%9A%E5%8F%91%E7%94%9F%E4%BB%80%E4%B9%88%E6%83%85%E5%86%B5/</link>
+      <pubDate>Tue, 02 Jun 2020 12:36:19 +0800</pubDate>
+      
+      <guid>https://elib.orekiyuta.cn/items/%E5%A6%82%E6%9E%9C%E7%BD%91%E7%AB%99%E7%9A%84cookie%E7%89%B9%E5%88%AB%E5%A4%9A%E7%89%B9%E5%88%AB%E5%A4%A7%E4%BC%9A%E5%8F%91%E7%94%9F%E4%BB%80%E4%B9%88%E6%83%85%E5%86%B5/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>JavaEE要懂的小事：二、图解Cookie</title>

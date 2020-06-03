@@ -6,10 +6,172 @@
     <description>Recent content in 计算机网络 on Elib</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jun 2020 15:49:01 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2020 00:52:32 +0800</lastBuildDate>
     
 	<atom:link href="https://elib.orekiyuta.cn/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Http请求中加号被替换为空格？源码背后的秘密</title>
+      <link>https://elib.orekiyuta.cn/items/http%E8%AF%B7%E6%B1%82%E4%B8%AD%E5%8A%A0%E5%8F%B7%E8%A2%AB%E6%9B%BF%E6%8D%A2%E4%B8%BA%E7%A9%BA%E6%A0%BC%E6%BA%90%E7%A0%81%E8%83%8C%E5%90%8E%E7%9A%84%E7%A7%98%E5%AF%86/</link>
+      <pubDate>Thu, 04 Jun 2020 00:52:32 +0800</pubDate>
+      
+      <guid>https://elib.orekiyuta.cn/items/http%E8%AF%B7%E6%B1%82%E4%B8%AD%E5%8A%A0%E5%8F%B7%E8%A2%AB%E6%9B%BF%E6%8D%A2%E4%B8%BA%E7%A9%BA%E6%A0%BC%E6%BA%90%E7%A0%81%E8%83%8C%E5%90%8E%E7%9A%84%E7%A7%98%E5%AF%86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>三分钟基础：分组交换和电路交换有什么区别？</title>
+      <link>https://elib.orekiyuta.cn/items/%E4%B8%89%E5%88%86%E9%92%9F%E5%9F%BA%E7%A1%80%E5%88%86%E7%BB%84%E4%BA%A4%E6%8D%A2%E5%92%8C%E7%94%B5%E8%B7%AF%E4%BA%A4%E6%8D%A2%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB/</link>
+      <pubDate>Thu, 04 Jun 2020 00:33:27 +0800</pubDate>
+      
+      <guid>https://elib.orekiyuta.cn/items/%E4%B8%89%E5%88%86%E9%92%9F%E5%9F%BA%E7%A1%80%E5%88%86%E7%BB%84%E4%BA%A4%E6%8D%A2%E5%92%8C%E7%94%B5%E8%B7%AF%E4%BA%A4%E6%8D%A2%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>三分钟基础：路由器是如何偷偷植入广告的？</title>
+      <link>https://elib.orekiyuta.cn/items/%E4%B8%89%E5%88%86%E9%92%9F%E5%9F%BA%E7%A1%80%E8%B7%AF%E7%94%B1%E5%99%A8%E6%98%AF%E5%A6%82%E4%BD%95%E5%81%B7%E5%81%B7%E6%A4%8D%E5%85%A5%E5%B9%BF%E5%91%8A%E7%9A%84/</link>
+      <pubDate>Thu, 04 Jun 2020 00:32:49 +0800</pubDate>
+      
+      <guid>https://elib.orekiyuta.cn/items/%E4%B8%89%E5%88%86%E9%92%9F%E5%9F%BA%E7%A1%80%E8%B7%AF%E7%94%B1%E5%99%A8%E6%98%AF%E5%A6%82%E4%BD%95%E5%81%B7%E5%81%B7%E6%A4%8D%E5%85%A5%E5%B9%BF%E5%91%8A%E7%9A%84/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>因为一个跨域请求，我差点丢了饭碗</title>
+      <link>https://elib.orekiyuta.cn/items/%E5%9B%A0%E4%B8%BA%E4%B8%80%E4%B8%AA%E8%B7%A8%E5%9F%9F%E8%AF%B7%E6%B1%82%E6%88%91%E5%B7%AE%E7%82%B9%E4%B8%A2%E4%BA%86%E9%A5%AD%E7%A2%97/</link>
+      <pubDate>Thu, 04 Jun 2020 00:25:14 +0800</pubDate>
+      
+      <guid>https://elib.orekiyuta.cn/items/%E5%9B%A0%E4%B8%BA%E4%B8%80%E4%B8%AA%E8%B7%A8%E5%9F%9F%E8%AF%B7%E6%B1%82%E6%88%91%E5%B7%AE%E7%82%B9%E4%B8%A2%E4%BA%86%E9%A5%AD%E7%A2%97/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>8000&#43;字总结：一文搞定UDP和TCP高频面试题！</title>
+      <link>https://elib.orekiyuta.cn/items/8000&#43;%E5%AD%97%E6%80%BB%E7%BB%93%E4%B8%80%E6%96%87%E6%90%9E%E5%AE%9Audp%E5%92%8Ctcp%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98/</link>
+      <pubDate>Wed, 03 Jun 2020 23:01:07 +0800</pubDate>
+      
+      <guid>https://elib.orekiyuta.cn/items/8000&#43;%E5%AD%97%E6%80%BB%E7%BB%93%E4%B8%80%E6%96%87%E6%90%9E%E5%AE%9Audp%E5%92%8Ctcp%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cookie、session和application都是些什么神？</title>
+      <link>https://elib.orekiyuta.cn/items/cookiesession%E5%92%8Capplication%E9%83%BD%E6%98%AF%E4%BA%9B%E4%BB%80%E4%B9%88%E7%A5%9E/</link>
+      <pubDate>Wed, 03 Jun 2020 22:57:39 +0800</pubDate>
+      
+      <guid>https://elib.orekiyuta.cn/items/cookiesession%E5%92%8Capplication%E9%83%BD%E6%98%AF%E4%BA%9B%E4%BB%80%E4%B9%88%E7%A5%9E/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>100个网络基础知识普及，看完成半个网络高手！</title>
+      <link>https://elib.orekiyuta.cn/items/100%E4%B8%AA%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E6%99%AE%E5%8F%8A%E7%9C%8B%E5%AE%8C%E6%88%90%E5%8D%8A%E4%B8%AA%E7%BD%91%E7%BB%9C%E9%AB%98%E6%89%8B/</link>
+      <pubDate>Wed, 03 Jun 2020 22:33:25 +0800</pubDate>
+      
+      <guid>https://elib.orekiyuta.cn/items/100%E4%B8%AA%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E6%99%AE%E5%8F%8A%E7%9C%8B%E5%AE%8C%E6%88%90%E5%8D%8A%E4%B8%AA%E7%BD%91%E7%BB%9C%E9%AB%98%E6%89%8B/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>看完这篇HTTPS，和面试官扯皮就没问题了</title>
+      <link>https://elib.orekiyuta.cn/items/%E7%9C%8B%E5%AE%8C%E8%BF%99%E7%AF%87https%E5%92%8C%E9%9D%A2%E8%AF%95%E5%AE%98%E6%89%AF%E7%9A%AE%E5%B0%B1%E6%B2%A1%E9%97%AE%E9%A2%98%E4%BA%86/</link>
+      <pubDate>Wed, 03 Jun 2020 22:28:38 +0800</pubDate>
+      
+      <guid>https://elib.orekiyuta.cn/items/%E7%9C%8B%E5%AE%8C%E8%BF%99%E7%AF%87https%E5%92%8C%E9%9D%A2%E8%AF%95%E5%AE%98%E6%89%AF%E7%9A%AE%E5%B0%B1%E6%B2%A1%E9%97%AE%E9%A2%98%E4%BA%86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>当键入网址后，到网页显示，其间发生了什么？这问题被面试官问了五六十次，熬夜赶出这篇文章</title>
+      <link>https://elib.orekiyuta.cn/items/%E5%BD%93%E9%94%AE%E5%85%A5%E7%BD%91%E5%9D%80%E5%90%8E%E5%88%B0%E7%BD%91%E9%A1%B5%E6%98%BE%E7%A4%BA%E5%85%B6%E9%97%B4%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88%E8%BF%99%E9%97%AE%E9%A2%98%E8%A2%AB%E9%9D%A2%E8%AF%95%E5%AE%98%E9%97%AE%E4%BA%86%E4%BA%94%E5%85%AD%E5%8D%81%E6%AC%A1%E7%86%AC%E5%A4%9C%E8%B5%B6%E5%87%BA%E8%BF%99%E7%AF%87%E6%96%87%E7%AB%A0/</link>
+      <pubDate>Wed, 03 Jun 2020 22:17:57 +0800</pubDate>
+      
+      <guid>https://elib.orekiyuta.cn/items/%E5%BD%93%E9%94%AE%E5%85%A5%E7%BD%91%E5%9D%80%E5%90%8E%E5%88%B0%E7%BD%91%E9%A1%B5%E6%98%BE%E7%A4%BA%E5%85%B6%E9%97%B4%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88%E8%BF%99%E9%97%AE%E9%A2%98%E8%A2%AB%E9%9D%A2%E8%AF%95%E5%AE%98%E9%97%AE%E4%BA%86%E4%BA%94%E5%85%AD%E5%8D%81%E6%AC%A1%E7%86%AC%E5%A4%9C%E8%B5%B6%E5%87%BA%E8%BF%99%E7%AF%87%E6%96%87%E7%AB%A0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ping好几年？今天终于把ping的原理搞懂了，打算图解教你！</title>
+      <link>https://elib.orekiyuta.cn/items/ping%E5%A5%BD%E5%87%A0%E5%B9%B4%E4%BB%8A%E5%A4%A9%E7%BB%88%E4%BA%8E%E6%8A%8Aping%E7%9A%84%E5%8E%9F%E7%90%86%E6%90%9E%E6%87%82%E4%BA%86%E6%89%93%E7%AE%97%E5%9B%BE%E8%A7%A3%E6%95%99%E4%BD%A0/</link>
+      <pubDate>Wed, 03 Jun 2020 20:31:21 +0800</pubDate>
+      
+      <guid>https://elib.orekiyuta.cn/items/ping%E5%A5%BD%E5%87%A0%E5%B9%B4%E4%BB%8A%E5%A4%A9%E7%BB%88%E4%BA%8E%E6%8A%8Aping%E7%9A%84%E5%8E%9F%E7%90%86%E6%90%9E%E6%87%82%E4%BA%86%E6%89%93%E7%AE%97%E5%9B%BE%E8%A7%A3%E6%95%99%E4%BD%A0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ping命令的七种用法，看完瞬间成大神</title>
+      <link>https://elib.orekiyuta.cn/items/ping%E5%91%BD%E4%BB%A4%E7%9A%84%E4%B8%83%E7%A7%8D%E7%94%A8%E6%B3%95%E7%9C%8B%E5%AE%8C%E7%9E%AC%E9%97%B4%E6%88%90%E5%A4%A7%E7%A5%9E/</link>
+      <pubDate>Wed, 03 Jun 2020 20:13:09 +0800</pubDate>
+      
+      <guid>https://elib.orekiyuta.cn/items/ping%E5%91%BD%E4%BB%A4%E7%9A%84%E4%B8%83%E7%A7%8D%E7%94%A8%E6%B3%95%E7%9C%8B%E5%AE%8C%E7%9E%AC%E9%97%B4%E6%88%90%E5%A4%A7%E7%A5%9E/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>今天就盘计算机网络，跟帅地快速过一遍计算机网络！</title>
+      <link>https://elib.orekiyuta.cn/items/%E4%BB%8A%E5%A4%A9%E5%B0%B1%E7%9B%98%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E8%B7%9F%E5%B8%85%E5%9C%B0%E5%BF%AB%E9%80%9F%E8%BF%87%E4%B8%80%E9%81%8D%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/</link>
+      <pubDate>Wed, 03 Jun 2020 20:09:25 +0800</pubDate>
+      
+      <guid>https://elib.orekiyuta.cn/items/%E4%BB%8A%E5%A4%A9%E5%B0%B1%E7%9B%98%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E8%B7%9F%E5%B8%85%E5%9C%B0%E5%BF%AB%E9%80%9F%E8%BF%87%E4%B8%80%E9%81%8D%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>【故事】跟零计算机基础的房东女儿讲了一下午的中间人劫持京东事件后，她感激涕零，决定给我免除房租（上）</title>
+      <link>https://elib.orekiyuta.cn/items/%E6%95%85%E4%BA%8B%E8%B7%9F%E9%9B%B6%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E7%9A%84%E6%88%BF%E4%B8%9C%E5%A5%B3%E5%84%BF%E8%AE%B2%E4%BA%86%E4%B8%80%E4%B8%8B%E5%8D%88%E7%9A%84%E4%B8%AD%E9%97%B4%E4%BA%BA%E5%8A%AB%E6%8C%81%E4%BA%AC%E4%B8%9C%E4%BA%8B%E4%BB%B6%E5%90%8E%E5%A5%B9%E6%84%9F%E6%BF%80%E6%B6%95%E9%9B%B6%E5%86%B3%E5%AE%9A%E7%BB%99%E6%88%91%E5%85%8D%E9%99%A4%E6%88%BF%E7%A7%9F%E4%B8%8A/</link>
+      <pubDate>Wed, 03 Jun 2020 16:02:18 +0800</pubDate>
+      
+      <guid>https://elib.orekiyuta.cn/items/%E6%95%85%E4%BA%8B%E8%B7%9F%E9%9B%B6%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E7%9A%84%E6%88%BF%E4%B8%9C%E5%A5%B3%E5%84%BF%E8%AE%B2%E4%BA%86%E4%B8%80%E4%B8%8B%E5%8D%88%E7%9A%84%E4%B8%AD%E9%97%B4%E4%BA%BA%E5%8A%AB%E6%8C%81%E4%BA%AC%E4%B8%9C%E4%BA%8B%E4%BB%B6%E5%90%8E%E5%A5%B9%E6%84%9F%E6%BF%80%E6%B6%95%E9%9B%B6%E5%86%B3%E5%AE%9A%E7%BB%99%E6%88%91%E5%85%8D%E9%99%A4%E6%88%BF%E7%A7%9F%E4%B8%8A/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>一文看懂：网址，URL，域名，IP地址，DNS，域名解析</title>
+      <link>https://elib.orekiyuta.cn/items/%E4%B8%80%E6%96%87%E7%9C%8B%E6%87%82%E7%BD%91%E5%9D%80url%E5%9F%9F%E5%90%8Dip%E5%9C%B0%E5%9D%80dns%E5%9F%9F%E5%90%8D%E8%A7%A3%E6%9E%90/</link>
+      <pubDate>Wed, 03 Jun 2020 02:18:38 +0800</pubDate>
+      
+      <guid>https://elib.orekiyuta.cn/items/%E4%B8%80%E6%96%87%E7%9C%8B%E6%87%82%E7%BD%91%E5%9D%80url%E5%9F%9F%E5%90%8Dip%E5%9C%B0%E5%9D%80dns%E5%9F%9F%E5%90%8D%E8%A7%A3%E6%9E%90/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>漫话：为什么你下载小电影的时候进度总是卡在99%就不动了？</title>
+      <link>https://elib.orekiyuta.cn/items/%E6%BC%AB%E8%AF%9D%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BD%A0%E4%B8%8B%E8%BD%BD%E5%B0%8F%E7%94%B5%E5%BD%B1%E7%9A%84%E6%97%B6%E5%80%99%E8%BF%9B%E5%BA%A6%E6%80%BB%E6%98%AF%E5%8D%A1%E5%9C%A899%E5%B0%B1%E4%B8%8D%E5%8A%A8%E4%BA%86/</link>
+      <pubDate>Wed, 03 Jun 2020 02:11:03 +0800</pubDate>
+      
+      <guid>https://elib.orekiyuta.cn/items/%E6%BC%AB%E8%AF%9D%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BD%A0%E4%B8%8B%E8%BD%BD%E5%B0%8F%E7%94%B5%E5%BD%B1%E7%9A%84%E6%97%B6%E5%80%99%E8%BF%9B%E5%BA%A6%E6%80%BB%E6%98%AF%E5%8D%A1%E5%9C%A899%E5%B0%B1%E4%B8%8D%E5%8A%A8%E4%BA%86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>你还在为TCP重传、滑动窗口、流量控制、拥塞控制发愁吗？看完图解就不愁了</title>
+      <link>https://elib.orekiyuta.cn/items/%E4%BD%A0%E8%BF%98%E5%9C%A8%E4%B8%BAtcp%E9%87%8D%E4%BC%A0%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%B5%81%E9%87%8F%E6%8E%A7%E5%88%B6%E6%8B%A5%E5%A1%9E%E6%8E%A7%E5%88%B6%E5%8F%91%E6%84%81%E5%90%97%E7%9C%8B%E5%AE%8C%E5%9B%BE%E8%A7%A3%E5%B0%B1%E4%B8%8D%E6%84%81%E4%BA%86/</link>
+      <pubDate>Wed, 03 Jun 2020 02:08:38 +0800</pubDate>
+      
+      <guid>https://elib.orekiyuta.cn/items/%E4%BD%A0%E8%BF%98%E5%9C%A8%E4%B8%BAtcp%E9%87%8D%E4%BC%A0%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%B5%81%E9%87%8F%E6%8E%A7%E5%88%B6%E6%8B%A5%E5%A1%9E%E6%8E%A7%E5%88%B6%E5%8F%91%E6%84%81%E5%90%97%E7%9C%8B%E5%AE%8C%E5%9B%BE%E8%A7%A3%E5%B0%B1%E4%B8%8D%E6%84%81%E4%BA%86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>搞定计算机基础系列：两台天各一方的计算机，是如何把数据发送给对方的？</title>
+      <link>https://elib.orekiyuta.cn/items/%E6%90%9E%E5%AE%9A%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E7%B3%BB%E5%88%97%E4%B8%A4%E5%8F%B0%E5%A4%A9%E5%90%84%E4%B8%80%E6%96%B9%E7%9A%84%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%98%AF%E5%A6%82%E4%BD%95%E6%8A%8A%E6%95%B0%E6%8D%AE%E5%8F%91%E9%80%81%E7%BB%99%E5%AF%B9%E6%96%B9%E7%9A%84/</link>
+      <pubDate>Tue, 02 Jun 2020 12:55:34 +0800</pubDate>
+      
+      <guid>https://elib.orekiyuta.cn/items/%E6%90%9E%E5%AE%9A%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E7%B3%BB%E5%88%97%E4%B8%A4%E5%8F%B0%E5%A4%A9%E5%90%84%E4%B8%80%E6%96%B9%E7%9A%84%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%98%AF%E5%A6%82%E4%BD%95%E6%8A%8A%E6%95%B0%E6%8D%AE%E5%8F%91%E9%80%81%E7%BB%99%E5%AF%B9%E6%96%B9%E7%9A%84/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>如果网站的Cookie特别多特别大，会发生什么情况？</title>
+      <link>https://elib.orekiyuta.cn/items/%E5%A6%82%E6%9E%9C%E7%BD%91%E7%AB%99%E7%9A%84cookie%E7%89%B9%E5%88%AB%E5%A4%9A%E7%89%B9%E5%88%AB%E5%A4%A7%E4%BC%9A%E5%8F%91%E7%94%9F%E4%BB%80%E4%B9%88%E6%83%85%E5%86%B5/</link>
+      <pubDate>Tue, 02 Jun 2020 12:36:19 +0800</pubDate>
+      
+      <guid>https://elib.orekiyuta.cn/items/%E5%A6%82%E6%9E%9C%E7%BD%91%E7%AB%99%E7%9A%84cookie%E7%89%B9%E5%88%AB%E5%A4%9A%E7%89%B9%E5%88%AB%E5%A4%A7%E4%BC%9A%E5%8F%91%E7%94%9F%E4%BB%80%E4%B9%88%E6%83%85%E5%86%B5/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>TCP半连接队列和全连接队列满了会发生什么？又该如何应对？</title>

@@ -6,10 +6,28 @@
     <description>Recent content in TCP on Elib</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jun 2020 15:49:01 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2020 23:01:07 +0800</lastBuildDate>
     
 	<atom:link href="https://elib.orekiyuta.cn/tags/tcp/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>8000&#43;字总结：一文搞定UDP和TCP高频面试题！</title>
+      <link>https://elib.orekiyuta.cn/items/8000&#43;%E5%AD%97%E6%80%BB%E7%BB%93%E4%B8%80%E6%96%87%E6%90%9E%E5%AE%9Audp%E5%92%8Ctcp%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98/</link>
+      <pubDate>Wed, 03 Jun 2020 23:01:07 +0800</pubDate>
+      
+      <guid>https://elib.orekiyuta.cn/items/8000&#43;%E5%AD%97%E6%80%BB%E7%BB%93%E4%B8%80%E6%96%87%E6%90%9E%E5%AE%9Audp%E5%92%8Ctcp%E9%AB%98%E9%A2%91%E9%9D%A2%E8%AF%95%E9%A2%98/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>你还在为TCP重传、滑动窗口、流量控制、拥塞控制发愁吗？看完图解就不愁了</title>
+      <link>https://elib.orekiyuta.cn/items/%E4%BD%A0%E8%BF%98%E5%9C%A8%E4%B8%BAtcp%E9%87%8D%E4%BC%A0%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%B5%81%E9%87%8F%E6%8E%A7%E5%88%B6%E6%8B%A5%E5%A1%9E%E6%8E%A7%E5%88%B6%E5%8F%91%E6%84%81%E5%90%97%E7%9C%8B%E5%AE%8C%E5%9B%BE%E8%A7%A3%E5%B0%B1%E4%B8%8D%E6%84%81%E4%BA%86/</link>
+      <pubDate>Wed, 03 Jun 2020 02:08:38 +0800</pubDate>
+      
+      <guid>https://elib.orekiyuta.cn/items/%E4%BD%A0%E8%BF%98%E5%9C%A8%E4%B8%BAtcp%E9%87%8D%E4%BC%A0%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E6%B5%81%E9%87%8F%E6%8E%A7%E5%88%B6%E6%8B%A5%E5%A1%9E%E6%8E%A7%E5%88%B6%E5%8F%91%E6%84%81%E5%90%97%E7%9C%8B%E5%AE%8C%E5%9B%BE%E8%A7%A3%E5%B0%B1%E4%B8%8D%E6%84%81%E4%BA%86/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>TCP半连接队列和全连接队列满了会发生什么？又该如何应对？</title>

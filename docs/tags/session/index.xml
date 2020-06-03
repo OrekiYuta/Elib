@@ -6,10 +6,19 @@
     <description>Recent content in session on Elib</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 May 2020 20:09:06 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2020 22:57:39 +0800</lastBuildDate>
     
 	<atom:link href="https://elib.orekiyuta.cn/tags/session/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cookie、session和application都是些什么神？</title>
+      <link>https://elib.orekiyuta.cn/items/cookiesession%E5%92%8Capplication%E9%83%BD%E6%98%AF%E4%BA%9B%E4%BB%80%E4%B9%88%E7%A5%9E/</link>
+      <pubDate>Wed, 03 Jun 2020 22:57:39 +0800</pubDate>
+      
+      <guid>https://elib.orekiyuta.cn/items/cookiesession%E5%92%8Capplication%E9%83%BD%E6%98%AF%E4%BA%9B%E4%BB%80%E4%B9%88%E7%A5%9E/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>JavaEE要懂的小事：三、图解Session</title>
