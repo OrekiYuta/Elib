@@ -6,10 +6,19 @@
     <description>Recent content in http on Elib</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Jun 2020 00:52:32 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2020 15:33:26 +0800</lastBuildDate>
     
 	<atom:link href="https://elib.orekiyuta.cn/tags/http/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>漫话：如何给女朋友解释什么是HTTP</title>
+      <link>https://elib.orekiyuta.cn/items/%E6%BC%AB%E8%AF%9D%E5%A6%82%E4%BD%95%E7%BB%99%E5%A5%B3%E6%9C%8B%E5%8F%8B%E8%A7%A3%E9%87%8A%E4%BB%80%E4%B9%88%E6%98%AFhttp/</link>
+      <pubDate>Thu, 04 Jun 2020 15:33:26 +0800</pubDate>
+      
+      <guid>https://elib.orekiyuta.cn/items/%E6%BC%AB%E8%AF%9D%E5%A6%82%E4%BD%95%E7%BB%99%E5%A5%B3%E6%9C%8B%E5%8F%8B%E8%A7%A3%E9%87%8A%E4%BB%80%E4%B9%88%E6%98%AFhttp/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Http请求中加号被替换为空格？源码背后的秘密</title>

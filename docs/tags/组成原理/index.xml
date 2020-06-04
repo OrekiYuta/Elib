@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>组成原理 on Elib</title>
+    <link>https://elib.orekiyuta.cn/tags/%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/</link>
+    <description>Recent content in 组成原理 on Elib</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Jun 2020 14:10:29 +0800</lastBuildDate>
+    
+	<atom:link href="https://elib.orekiyuta.cn/tags/%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>三分钟基础：举个例子读懂原码、反码与补码</title>
+      <link>https://elib.orekiyuta.cn/items/%E4%B8%89%E5%88%86%E9%92%9F%E5%9F%BA%E7%A1%80%E4%B8%BE%E4%B8%AA%E4%BE%8B%E5%AD%90%E8%AF%BB%E6%87%82%E5%8E%9F%E7%A0%81%E5%8F%8D%E7%A0%81%E4%B8%8E%E8%A1%A5%E7%A0%81/</link>
+      <pubDate>Thu, 04 Jun 2020 14:10:29 +0800</pubDate>
+      
+      <guid>https://elib.orekiyuta.cn/items/%E4%B8%89%E5%88%86%E9%92%9F%E5%9F%BA%E7%A1%80%E4%B8%BE%E4%B8%AA%E4%BE%8B%E5%AD%90%E8%AF%BB%E6%87%82%E5%8E%9F%E7%A0%81%E5%8F%8D%E7%A0%81%E4%B8%8E%E8%A1%A5%E7%A0%81/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>计算机为什么能够读懂程序代码？</title>
+      <link>https://elib.orekiyuta.cn/items/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%BD%E5%A4%9F%E8%AF%BB%E6%87%82%E7%A8%8B%E5%BA%8F%E4%BB%A3%E7%A0%81/</link>
+      <pubDate>Wed, 03 Jun 2020 22:35:25 +0800</pubDate>
+      
+      <guid>https://elib.orekiyuta.cn/items/%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%BD%E5%A4%9F%E8%AF%BB%E6%87%82%E7%A8%8B%E5%BA%8F%E4%BB%A3%E7%A0%81/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>从本质上搞懂头痛的乱码问题！</title>
+      <link>https://elib.orekiyuta.cn/items/%E4%BB%8E%E6%9C%AC%E8%B4%A8%E4%B8%8A%E6%90%9E%E6%87%82%E5%A4%B4%E7%97%9B%E7%9A%84%E4%B9%B1%E7%A0%81%E9%97%AE%E9%A2%98/</link>
+      <pubDate>Sat, 23 May 2020 01:25:48 +0800</pubDate>
+      
+      <guid>https://elib.orekiyuta.cn/items/%E4%BB%8E%E6%9C%AC%E8%B4%A8%E4%B8%8A%E6%90%9E%E6%87%82%E5%A4%B4%E7%97%9B%E7%9A%84%E4%B9%B1%E7%A0%81%E9%97%AE%E9%A2%98/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
