@@ -6,10 +6,73 @@
     <description>Recent content on Elib</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Jun 2020 18:34:04 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2020 23:01:16 +0800</lastBuildDate>
     
 	<atom:link href="https://elib.orekiyuta.cn/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>面试官：换人！他连TCP这几个参数都不懂</title>
+      <link>https://elib.orekiyuta.cn/items/%E9%9D%A2%E8%AF%95%E5%AE%98%E6%8D%A2%E4%BA%BA%E4%BB%96%E8%BF%9Etcp%E8%BF%99%E5%87%A0%E4%B8%AA%E5%8F%82%E6%95%B0%E9%83%BD%E4%B8%8D%E6%87%82/</link>
+      <pubDate>Thu, 11 Jun 2020 23:01:16 +0800</pubDate>
+      
+      <guid>https://elib.orekiyuta.cn/items/%E9%9D%A2%E8%AF%95%E5%AE%98%E6%8D%A2%E4%BA%BA%E4%BB%96%E8%BF%9Etcp%E8%BF%99%E5%87%A0%E4%B8%AA%E5%8F%82%E6%95%B0%E9%83%BD%E4%B8%8D%E6%87%82/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>超干货！为了让你彻底弄懂MySQL事务日志，我通宵肝出了这份图解！</title>
+      <link>https://elib.orekiyuta.cn/items/%E8%B6%85%E5%B9%B2%E8%B4%A7%E4%B8%BA%E4%BA%86%E8%AE%A9%E4%BD%A0%E5%BD%BB%E5%BA%95%E5%BC%84%E6%87%82mysql%E4%BA%8B%E5%8A%A1%E6%97%A5%E5%BF%97%E6%88%91%E9%80%9A%E5%AE%B5%E8%82%9D%E5%87%BA%E4%BA%86%E8%BF%99%E4%BB%BD%E5%9B%BE%E8%A7%A3/</link>
+      <pubDate>Thu, 11 Jun 2020 22:58:38 +0800</pubDate>
+      
+      <guid>https://elib.orekiyuta.cn/items/%E8%B6%85%E5%B9%B2%E8%B4%A7%E4%B8%BA%E4%BA%86%E8%AE%A9%E4%BD%A0%E5%BD%BB%E5%BA%95%E5%BC%84%E6%87%82mysql%E4%BA%8B%E5%8A%A1%E6%97%A5%E5%BF%97%E6%88%91%E9%80%9A%E5%AE%B5%E8%82%9D%E5%87%BA%E4%BA%86%E8%BF%99%E4%BB%BD%E5%9B%BE%E8%A7%A3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>为什么IPv6难以取代IPv4</title>
+      <link>https://elib.orekiyuta.cn/items/%E4%B8%BA%E4%BB%80%E4%B9%88ipv6%E9%9A%BE%E4%BB%A5%E5%8F%96%E4%BB%A3ipv4/</link>
+      <pubDate>Thu, 11 Jun 2020 22:56:11 +0800</pubDate>
+      
+      <guid>https://elib.orekiyuta.cn/items/%E4%B8%BA%E4%BB%80%E4%B9%88ipv6%E9%9A%BE%E4%BB%A5%E5%8F%96%E4%BB%A3ipv4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>深度剖析 CPU到底是怎么识别代码的？</title>
+      <link>https://elib.orekiyuta.cn/items/%E6%B7%B1%E5%BA%A6%E5%89%96%E6%9E%90-cpu%E5%88%B0%E5%BA%95%E6%98%AF%E6%80%8E%E4%B9%88%E8%AF%86%E5%88%AB%E4%BB%A3%E7%A0%81%E7%9A%84/</link>
+      <pubDate>Thu, 11 Jun 2020 22:55:27 +0800</pubDate>
+      
+      <guid>https://elib.orekiyuta.cn/items/%E6%B7%B1%E5%BA%A6%E5%89%96%E6%9E%90-cpu%E5%88%B0%E5%BA%95%E6%98%AF%E6%80%8E%E4%B9%88%E8%AF%86%E5%88%AB%E4%BB%A3%E7%A0%81%E7%9A%84/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>吐血整理！书写高质量SQL的30条建议</title>
+      <link>https://elib.orekiyuta.cn/items/%E5%90%90%E8%A1%80%E6%95%B4%E7%90%86%E4%B9%A6%E5%86%99%E9%AB%98%E8%B4%A8%E9%87%8Fsql%E7%9A%8430%E6%9D%A1%E5%BB%BA%E8%AE%AE/</link>
+      <pubDate>Thu, 04 Jun 2020 23:24:43 +0800</pubDate>
+      
+      <guid>https://elib.orekiyuta.cn/items/%E5%90%90%E8%A1%80%E6%95%B4%E7%90%86%E4%B9%A6%E5%86%99%E9%AB%98%E8%B4%A8%E9%87%8Fsql%E7%9A%8430%E6%9D%A1%E5%BB%BA%E8%AE%AE/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>面试官：为什么SpringBoot的jar可以直接运行？</title>
+      <link>https://elib.orekiyuta.cn/items/%E9%9D%A2%E8%AF%95%E5%AE%98%E4%B8%BA%E4%BB%80%E4%B9%88springboot%E7%9A%84jar%E5%8F%AF%E4%BB%A5%E7%9B%B4%E6%8E%A5%E8%BF%90%E8%A1%8C/</link>
+      <pubDate>Thu, 04 Jun 2020 23:22:02 +0800</pubDate>
+      
+      <guid>https://elib.orekiyuta.cn/items/%E9%9D%A2%E8%AF%95%E5%AE%98%E4%B8%BA%E4%BB%80%E4%B9%88springboot%E7%9A%84jar%E5%8F%AF%E4%BB%A5%E7%9B%B4%E6%8E%A5%E8%BF%90%E8%A1%8C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>面试官：你知道Docker有哪些优缺点嘛？</title>
+      <link>https://elib.orekiyuta.cn/items/%E9%9D%A2%E8%AF%95%E5%AE%98%E4%BD%A0%E7%9F%A5%E9%81%93docker%E6%9C%89%E5%93%AA%E4%BA%9B%E4%BC%98%E7%BC%BA%E7%82%B9%E5%98%9B/</link>
+      <pubDate>Thu, 04 Jun 2020 22:31:14 +0800</pubDate>
+      
+      <guid>https://elib.orekiyuta.cn/items/%E9%9D%A2%E8%AF%95%E5%AE%98%E4%BD%A0%E7%9F%A5%E9%81%93docker%E6%9C%89%E5%93%AA%E4%BA%9B%E4%BC%98%E7%BC%BA%E7%82%B9%E5%98%9B/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>给你5分钟白漂：我的常用在线工具网站</title>

@@ -6,10 +6,28 @@
     <description>Recent content in database on Elib</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Jun 2020 16:46:47 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2020 22:58:38 +0800</lastBuildDate>
     
 	<atom:link href="https://elib.orekiyuta.cn/tags/database/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>超干货！为了让你彻底弄懂MySQL事务日志，我通宵肝出了这份图解！</title>
+      <link>https://elib.orekiyuta.cn/items/%E8%B6%85%E5%B9%B2%E8%B4%A7%E4%B8%BA%E4%BA%86%E8%AE%A9%E4%BD%A0%E5%BD%BB%E5%BA%95%E5%BC%84%E6%87%82mysql%E4%BA%8B%E5%8A%A1%E6%97%A5%E5%BF%97%E6%88%91%E9%80%9A%E5%AE%B5%E8%82%9D%E5%87%BA%E4%BA%86%E8%BF%99%E4%BB%BD%E5%9B%BE%E8%A7%A3/</link>
+      <pubDate>Thu, 11 Jun 2020 22:58:38 +0800</pubDate>
+      
+      <guid>https://elib.orekiyuta.cn/items/%E8%B6%85%E5%B9%B2%E8%B4%A7%E4%B8%BA%E4%BA%86%E8%AE%A9%E4%BD%A0%E5%BD%BB%E5%BA%95%E5%BC%84%E6%87%82mysql%E4%BA%8B%E5%8A%A1%E6%97%A5%E5%BF%97%E6%88%91%E9%80%9A%E5%AE%B5%E8%82%9D%E5%87%BA%E4%BA%86%E8%BF%99%E4%BB%BD%E5%9B%BE%E8%A7%A3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>吐血整理！书写高质量SQL的30条建议</title>
+      <link>https://elib.orekiyuta.cn/items/%E5%90%90%E8%A1%80%E6%95%B4%E7%90%86%E4%B9%A6%E5%86%99%E9%AB%98%E8%B4%A8%E9%87%8Fsql%E7%9A%8430%E6%9D%A1%E5%BB%BA%E8%AE%AE/</link>
+      <pubDate>Thu, 04 Jun 2020 23:24:43 +0800</pubDate>
+      
+      <guid>https://elib.orekiyuta.cn/items/%E5%90%90%E8%A1%80%E6%95%B4%E7%90%86%E4%B9%A6%E5%86%99%E9%AB%98%E8%B4%A8%E9%87%8Fsql%E7%9A%8430%E6%9D%A1%E5%BB%BA%E8%AE%AE/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>一条SQL语句在MySQL中如何执行的</title>

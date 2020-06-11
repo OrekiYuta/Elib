@@ -6,10 +6,19 @@
     <description>Recent content in ip on Elib</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Jun 2020 15:35:07 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2020 22:56:11 +0800</lastBuildDate>
     
 	<atom:link href="https://elib.orekiyuta.cn/tags/ip/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>为什么IPv6难以取代IPv4</title>
+      <link>https://elib.orekiyuta.cn/items/%E4%B8%BA%E4%BB%80%E4%B9%88ipv6%E9%9A%BE%E4%BB%A5%E5%8F%96%E4%BB%A3ipv4/</link>
+      <pubDate>Thu, 11 Jun 2020 22:56:11 +0800</pubDate>
+      
+      <guid>https://elib.orekiyuta.cn/items/%E4%B8%BA%E4%BB%80%E4%B9%88ipv6%E9%9A%BE%E4%BB%A5%E5%8F%96%E4%BB%A3ipv4/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>为啥用ip不可以访问知乎，而百度却可以？</title>

@@ -6,10 +6,19 @@
     <description>Recent content in sql on Elib</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Jun 2020 16:47:54 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2020 23:24:43 +0800</lastBuildDate>
     
 	<atom:link href="https://elib.orekiyuta.cn/tags/sql/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>吐血整理！书写高质量SQL的30条建议</title>
+      <link>https://elib.orekiyuta.cn/items/%E5%90%90%E8%A1%80%E6%95%B4%E7%90%86%E4%B9%A6%E5%86%99%E9%AB%98%E8%B4%A8%E9%87%8Fsql%E7%9A%8430%E6%9D%A1%E5%BB%BA%E8%AE%AE/</link>
+      <pubDate>Thu, 04 Jun 2020 23:24:43 +0800</pubDate>
+      
+      <guid>https://elib.orekiyuta.cn/items/%E5%90%90%E8%A1%80%E6%95%B4%E7%90%86%E4%B9%A6%E5%86%99%E9%AB%98%E8%B4%A8%E9%87%8Fsql%E7%9A%8430%E6%9D%A1%E5%BB%BA%E8%AE%AE/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>在线就能用的SQL练习平台我给你找好了！</title>
