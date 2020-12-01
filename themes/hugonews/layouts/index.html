@@ -4,7 +4,7 @@
 {{ range (.Paginator 20).Pages}}
 {{ $site := urls.Parse .Params.ItemUrl }}
 <li class="item">
-    <p class="item__urls"><a href="{{ .Params.ItemUrl }}">{{ .Title }}</a></p>
+    <p class="item__urls"><a href="{{ .Params.ItemUrl }}" target="_blank">{{ .Title }}</a></p>
     <!-- <span class="item__siteurl">(<a href="/sites/{{ replace $site.Host "www." "" }}">{{ replace $site.Host "www." "" }}</a>)</span> -->
     <p class="item__meta">
         <span style="float: right;color: #828282;margin-right: .5rem;">{{ partial "age.html" . }}</span>
